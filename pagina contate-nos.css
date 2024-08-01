@@ -1,0 +1,44 @@
+body {margin: 0;
+    font-size: 21px;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    height: 500px;
+width: 1905px;}
+        #cabeçalho { width: 100%;
+            height: 100px;
+        background-color:#1947BC;}
+        
+        .logo {border-radius: 50%;
+        margin: 10px;}
+
+        h1 {position: relative;
+        left: 100px;}
+
+        #formulario {text-align: center;}
+
+        #mensagem {
+            height: 110px;
+            width: 400px;
+        }
+        #zoro {position: relative;
+        left: 1300px;
+    top: -375px;}
+
+    #nome {width: 300px;}
+    #e-mail {width: 300px;}
+    #telefone {width: 300px;}
+    #botoes {list-style: none;
+        display: flex;
+    gap: 10px;}
+        #botoes a{text-decoration: none;
+            color: #FAFF01;
+            border: solid 15px;
+            border-color: #600A0A;
+            border-radius: 15px;
+            background-color: #600A0A;
+            font-size: 15px;
+        width: 150px;
+    position: relative;
+top: -90px;
+left: 100px;}

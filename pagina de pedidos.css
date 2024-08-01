@@ -1,0 +1,123 @@
+body {margin: 0;
+    font-size: 21px;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    height: 500px;
+width: 1920px;}
+
+#cabeçalho { width: 100%;
+    height: 100px;
+background-color:#1947BC;}
+
+.logo {border-radius: 50%;
+    margin: 10px;}
+
+#botoes {list-style: none;
+    display: flex;
+gap: 10px;}
+
+#botoes a{text-decoration: none;
+    color: #FAFF01;
+    border: solid 15px;
+    border-color: #600A0A;
+    border-radius: 15px;
+    background-color: #600A0A;
+    font-size: 15px;
+width: 150px;
+position: relative;
+top: -90px;
+left: 100px;}
+
+#ver_prd {position: relative;
+    left: 525px;
+top: -500px;}
+
+    #compra {width: 1000px;
+        border: solid 2px;
+        border-color: black;
+        border-radius: 15px;
+        background-color: #1947BC;
+    position: relative;
+left: 500px;
+top: -520px;
+height: 790px;}
+
+h2 {color: white;}
+#limpar_carrinho{position: relative;
+color: #FAFF01;
+left: 800px;
+top: -60px;
+text-decoration: none;}
+
+#pedido p{color: white;
+position: relative;
+left: 100px;
+top: -95px;}
+
+#numero {background-color: black;
+    width: 75px;
+    text-align: center;
+    border-color: black;
+    border-radius: 15px;
+color: white;
+position: relative;
+left: 95px;
+top: -110px;}
+
+#lixeira {position: relative;
+left: 200px;
+top: -165px;}
+
+#total {color: #600A0A;
+    height: 40px;
+background-color: #AFBE00;
+position: relative;
+top: -150px;}
+
+#total2 {color: #600A0A;
+    height: 40px;
+position: relative;
+left: 900px;
+top: -215px;}
+
+h4 {color: white;
+position: relative;
+top: -200px;}
+
+#local {position: relative;
+left: 400px;
+top: -310px;}
+
+#pagamento{color: white;
+    position: relative;
+top: -275px;}
+
+#compra input{width: 100px;}
+
+#money {
+left: 100px;
+text-align: center;
+    position: relative;
+top: -275px;
+background-color: #600A0A;
+width: 200px;
+border-radius: 15px;
+}
+
+#cartao {left: 400px;
+    text-align: center;
+    position: relative;
+    top: -337px;
+    background-color: #600A0A;
+    width: 300px;
+    border-radius: 15px;}
+
+    #enviar {left: 350px;
+        text-align: center;
+        position: relative;
+        top: -325px;
+        color: #FAFF01;
+        background-color: #600A0A;
+        width: 300px;
+        border-radius: 15px;}

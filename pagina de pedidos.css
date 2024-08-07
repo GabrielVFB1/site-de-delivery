@@ -79,11 +79,13 @@ top: -150px;}
     height: 40px;
 position: relative;
 left: 900px;
-top: -215px;}
+top: -215px;
+width: 0px;}
 
 h4 {color: white;
 position: relative;
-top: -200px;}
+top: -200px;
+width: 0px;}
 
 #local {position: relative;
 left: 400px;
@@ -91,7 +93,8 @@ top: -310px;}
 
 #pagamento{color: white;
     position: relative;
-top: -275px;}
+top: -275px;
+width: 0px;}
 
 #compra input{width: 100px;}
 
